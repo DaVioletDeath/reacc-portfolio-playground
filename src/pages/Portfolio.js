@@ -5,11 +5,11 @@ export default function Portfolio(){
         <div>
             <h1>Portfolio</h1>
             <Project title = 'OnHand' />
-            <Project title = 'r' />
-            <Project title = 'a' />
-            <Project title = 'h' />
-            <Project title = 'h' />
-            <Project title = 'h' />
+            <Project title = 'First Impression' />
+            <Project title = 'PW About Me Page' />
+            <Project title = 'Employee Tracker App' />
+            <Project title = 'Day Planner' />
+            <Project title = 'Code Quiz' />
         </div>
     )
 }
