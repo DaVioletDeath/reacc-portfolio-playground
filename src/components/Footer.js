@@ -27,6 +27,9 @@ const Footer = () => {
             <NavItem>
               <NavLink href="https://www.linkedin.com/in/davioletdeath">LinkedIn</NavLink>
             </NavItem>
+            <NavItem>
+              <NavLink href="https://resume.io/r/3S4H4nVnU">Resume</NavLink>
+            </NavItem>
           </Nav>
           <NavbarText></NavbarText>
         </Collapse>
