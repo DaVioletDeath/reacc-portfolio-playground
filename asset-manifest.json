@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacc-portfolio-playground/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reacc-portfolio-playground/static/js/main.96857126.chunk.js",
+    "main.js.map": "/reacc-portfolio-playground/static/js/main.96857126.chunk.js.map",
+    "runtime-main.js": "/reacc-portfolio-playground/static/js/runtime-main.eba0def4.js",
+    "runtime-main.js.map": "/reacc-portfolio-playground/static/js/runtime-main.eba0def4.js.map",
+    "static/js/2.763b34e5.chunk.js": "/reacc-portfolio-playground/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/reacc-portfolio-playground/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/reacc-portfolio-playground/index.html",
+    "precache-manifest.ecd195c27452a2514fcec9b28e45a574.js": "/reacc-portfolio-playground/precache-manifest.ecd195c27452a2514fcec9b28e45a574.js",
+    "service-worker.js": "/reacc-portfolio-playground/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reacc-portfolio-playground/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/reacc-portfolio-playground/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reacc-portfolio-playground/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba0def4.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.96857126.chunk.js"
+  ]
+}
