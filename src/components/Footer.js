@@ -22,7 +22,7 @@ const Footer = () => {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
             <NavItem>
-              <NavLink href="https://github.com/DaVioletDeath">GitHub</NavLink>
+              <NavLink  href="https://github.com/DaVioletDeath">GitHub</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="https://www.linkedin.com/in/davioletdeath">LinkedIn</NavLink>
