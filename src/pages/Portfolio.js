@@ -11,7 +11,7 @@ export default function Portfolio(){
         <div className= "container-fluid">
             <h1>Portfolio</h1>
             <div className='row'>
-    <Project title = 'OnHand' link = "https://msplawn.github.io/on-hand/" github = "https://github.com/msplawn/on-hand" gif = {OnHand} description = {<h2> "Can’t go out and want to know how to make something using ingredients you have On Hand? This is the app for you." </h2>} />
+    <Project title = 'OnHand' link = "https://msplawn.github.io/on-hand/" github = "https://github.com/msplawn/on-hand" gif = {OnHand} description = {<p> "Can’t go out and want to know how to make something using ingredients you have On Hand? This is the app for you." </p>} />
             <Project title = 'First Impression' link = "https://pacific-basin-52237.herokuapp.com/" github = "https://github.com/JoeWills615/First_Impression" gif = {FirstImpression} />
             <Project title = 'PW About Me Page' link = "https://davioletdeath.github.io/prework-about-me/" github = "https://github.com/DaVioletDeath/prework-about-me" gif = {AboutMe} />
             <Project title = 'Fitness Tracker' link = "https://fitness-tracker-v.herokuapp.com/" github = "https://github.com/DaVioletDeath/Fitness-Tracker" gif = {FitnessTracker} />
