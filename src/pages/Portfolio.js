@@ -12,7 +12,7 @@ export default function Portfolio(){
             <h1>Portfolio</h1>
             <div className='row'>
     <Project title = 'OnHand' link = "https://msplawn.github.io/on-hand/" github = "https://github.com/msplawn/on-hand" gif = {OnHand} description = "Can’t go out and want to know how to make something using ingredients you have On Hand? This is the app for you." />
-            <Project title = 'First Impression' link = "https://pacific-basin-52237.herokuapp.com/" github = "https://github.com/JoeWills615/First_Impression" gif = {FirstImpression} />
+            <Project title = 'First Impression' link = "https://pacific-basin-52237.herokuapp.com/" github = "https://github.com/JoeWills615/First_Impression" gif = {FirstImpression} description = "Tired of all of those other dating apps, want to make a good First Impression? Find people with similar interests in food and restaurants and make the perfect first date and Impression." />
             <Project title = 'PW About Me Page' link = "https://davioletdeath.github.io/prework-about-me/" github = "https://github.com/DaVioletDeath/prework-about-me" gif = {AboutMe} />
             <Project title = 'Fitness Tracker' link = "https://fitness-tracker-v.herokuapp.com/" github = "https://github.com/DaVioletDeath/Fitness-Tracker" gif = {FitnessTracker} />
             <Project title = 'Day Planner' link = "https://davioletdeath.github.io/Day-Planner/" github = "https://github.com/DaVioletDeath/Day-Planner" gif = {DayPlanner} />
