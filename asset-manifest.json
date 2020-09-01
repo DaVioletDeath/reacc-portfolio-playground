@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reacc-portfolio-playground/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reacc-portfolio-playground/static/js/main.98357e47.chunk.js",
+    "main.js.map": "/reacc-portfolio-playground/static/js/main.98357e47.chunk.js.map",
+    "runtime-main.js": "/reacc-portfolio-playground/static/js/runtime-main.87a09cc6.js",
+    "runtime-main.js.map": "/reacc-portfolio-playground/static/js/runtime-main.87a09cc6.js.map",
+    "static/js/2.b62126b5.chunk.js": "/reacc-portfolio-playground/static/js/2.b62126b5.chunk.js",
+    "static/js/2.b62126b5.chunk.js.map": "/reacc-portfolio-playground/static/js/2.b62126b5.chunk.js.map",
+    "index.html": "/reacc-portfolio-playground/index.html",
+    "precache-manifest.13e94e47bc67062c1f8edf73aa4837f8.js": "/reacc-portfolio-playground/precache-manifest.13e94e47bc67062c1f8edf73aa4837f8.js",
+    "service-worker.js": "/reacc-portfolio-playground/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reacc-portfolio-playground/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b62126b5.chunk.js.LICENSE.txt": "/reacc-portfolio-playground/static/js/2.b62126b5.chunk.js.LICENSE.txt",
+    "static/media/AboutMe.png": "/reacc-portfolio-playground/static/media/AboutMe.f5b27726.png",
+    "static/media/CodeQuiz.png": "/reacc-portfolio-playground/static/media/CodeQuiz.73bc538f.png",
+    "static/media/DayPlanner.png": "/reacc-portfolio-playground/static/media/DayPlanner.ec4c9155.png",
+    "static/media/FirstImpression.png": "/reacc-portfolio-playground/static/media/FirstImpression.ac525f0e.png",
+    "static/media/FitnessTracker.png": "/reacc-portfolio-playground/static/media/FitnessTracker.162863b9.png",
+    "static/media/OnHand.png": "/reacc-portfolio-playground/static/media/OnHand.a5e8b91d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a09cc6.js",
+    "static/js/2.b62126b5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.98357e47.chunk.js"
+  ]
+}
