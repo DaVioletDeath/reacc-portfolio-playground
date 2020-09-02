@@ -16,7 +16,7 @@ export default function Portfolio(){
             <Project title = 'PW About Me Page' link = "https://davioletdeath.github.io/prework-about-me/" github = "https://github.com/DaVioletDeath/prework-about-me" gif = {AboutMe} />
             <Project title = 'Fitness Tracker' link = "https://fitness-tracker-v.herokuapp.com/" github = "https://github.com/DaVioletDeath/Fitness-Tracker" gif = {FitnessTracker} />
             <Project title = 'Day Planner' link = "https://davioletdeath.github.io/Day-Planner/" github = "https://github.com/DaVioletDeath/Day-Planner" gif = {DayPlanner} />
-            <Project title = 'Code Quiz' link = "https://davioletdeath.github.io/Code_Quiz/" github = "https://github.com/DaVioletDeath/Code_Quiz" gif = {CodeQuiz} />
+            <Project title = 'Code Quiz' link = "https://davioletdeath.github.io/Code_Quiz/" github = "https://github.com/DaVioletDeath/Code_Quiz" gif = {CodeQuiz} description = "Test your coding mettle with this quiz!" />
             </div>
         </div>
     )
