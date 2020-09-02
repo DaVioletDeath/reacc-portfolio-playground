@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8499bbc564331505f86d06f59f27c6cf",
+    "revision": "8198b6b3d983339f27229bb702f02579",
     "url": "/reacc-portfolio-playground/index.html"
   },
   {
-    "revision": "6d044496c5602a3c4cbc",
+    "revision": "4abf56ea2e1851d93b7e",
     "url": "/reacc-portfolio-playground/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reacc-portfolio-playground/static/js/2.b62126b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d044496c5602a3c4cbc",
-    "url": "/reacc-portfolio-playground/static/js/main.4ea66f08.chunk.js"
+    "revision": "4abf56ea2e1851d93b7e",
+    "url": "/reacc-portfolio-playground/static/js/main.6437811d.chunk.js"
   },
   {
     "revision": "3c950c900c02401dc08d",
